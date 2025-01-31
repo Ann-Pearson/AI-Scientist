@@ -31,7 +31,7 @@ We provide all runs and data from our paper, where we run each base model on eac
 > **Caution!** This codebase will execute LLM-written code. There are various risks and challenges associated with this autonomy, including the use of potentially dangerous packages, web access, and potential spawning of processes. Use at your own discretion. Please make sure to containerize and restrict web access appropriately.
 
 <p align="center">
-  <a href="https://github.com/SakanaAI/AI-Scientist/blob/main/example_papers/adaptive_dual_scale_denoising/adaptive_dual_scale_denoising.pdf"><img src="https://github.com/SakanaAI/AI-Scientist/blob/main/docs/anim-ai-scientist.gif" alt="Adaptive Dual Scale Denoising" width="80%" />
+  <a href="https://github.com/Ann-Pearson/AI-Scientist/blob/main/example_papers/adaptive_dual_scale_denoising.pdf"><img src="https://github.com/Ann-Pearson/AI-Scientist/blob/main/docs/anim-ai-scientist.gif" alt="Adaptive Dual Scale Denoising" width="80%" />
 </a></p>
 
 ## Table of Contents
@@ -297,11 +297,11 @@ You should also ensure that the `template.tex` file is updated to use the correc
 
 We welcome community contributions in the form of new templates. While these are not maintained by us, we are delighted to highlight your templates to others. Below, we list community-contributed templates along with links to their pull requests (PRs):
 
-- Infectious Disease Modeling (`seir`) - [PR #137](https://github.com/SakanaAI/AI-Scientist/pull/137)
-- Image Classification with MobileNetV3 (`mobilenetV3`) - [PR #141](https://github.com/SakanaAI/AI-Scientist/pull/141)
-- Sketch RNN (`sketch_rnn`) - [PR #143](https://github.com/SakanaAI/AI-Scientist/pull/143)
-- Earthquake Prediction (`earthquake-prediction`) - [PR #167](https://github.com/SakanaAI/AI-Scientist/pull/167)
-- Tensorial Radiance Fields (`tensorf`) - [PR #175](https://github.com/SakanaAI/AI-Scientist/pull/175)
+- Infectious Disease Modeling (`seir`) 
+- Image Classification with MobileNetV3 (`mobilenetV3`) 
+- Sketch RNN (`sketch_rnn`) 
+- Earthquake Prediction (`earthquake-prediction`) 
+- Tensorial Radiance Fields (`tensorf`) 
 
 *This section is reserved for community contributions. Please submit a pull request to add your template to the list! Please describe the template in the PR description, and also show examples of the generated papers.*
 
@@ -322,7 +322,7 @@ If you use **The AI Scientist** in your research, please cite it as follows:
 ```
 @article{lu2024aiscientist,
   title={The {AI} {S}cientist: Towards Fully Automated Open-Ended Scientific Discovery},
-  author={Lu, Chris and Lu, Cong and Lange, Robert Tjarko and Foerster, Jakob and Clune, Jeff and Ha, David},
+  author={Ann Pearson},
   journal={arXiv preprint arXiv:2408.06292},
   year={2024}
 }
@@ -366,7 +366,7 @@ We use the Semantic Scholar API to check ideas for novelty and collect citations
 
 ## Containerization
 
-We include a [community-contributed](https://github.com/SakanaAI/AI-Scientist/pull/21) Docker image that may assist with your containerization efforts in `experimental/Dockerfile`.
+We include a community-contributed Docker image that may assist with your containerization efforts in `experimental/Dockerfile`.
 
 You can use this image like this:
 
