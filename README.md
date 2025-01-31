@@ -7,7 +7,8 @@
 <p align="center">
   📚 <a href="https://arxiv.org/abs/2408.06292">[Paper]</a> |
   🌐 <a href="https://ai-scientist.info/">[Website]</a> |
-  ✖  <a href="https://x.com/AnnPeardre">[X]</a> 
+  ✖  <a href="https://x.com/AnnPeardre">[X]</a> |
+  💊  <a href="https://pump.fun/coin/5o9diQKyVtHfNds3cMeEKaxUkkMr7N1CT5rXbRRcpump">[pump.fun]</a>
 </p>
 
 5o9diQKyVtHfNds3cMeEKaxUkkMr7N1CT5rXbRRcpump
