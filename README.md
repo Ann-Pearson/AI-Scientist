@@ -1,6 +1,5 @@
 <h1 align="center">
   <a href="">
-    <img src="docs/logo_2.png" width="215" /></a><br>
   <b>The AI Scientist: Towards Fully Automated</b><br>
   <b>Open-Ended Scientific Discovery 🧑‍🔬</b><br>
 </h1>
