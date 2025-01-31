@@ -7,8 +7,7 @@
 <p align="center">
   📚 <a href="https://arxiv.org/abs/2408.06292">[Paper]</a> |
   🌐 <a href="https://ai-scientist.info/">[Website]</a> |
-  ✖  <a href="https://x.com/AnnPeardre">[X]</a> |
-  💊  <a href="https://x.com/AnnPeardre">[pump.fun]</a>
+  ✖  <a href="https://x.com/AnnPeardre">[X]</a> 
 </p>
 
 One of the grand challenges of artificial intelligence is developing agents capable of conducting scientific research and discovering new knowledge. While frontier models have already been used to aid human scientists—for example, for brainstorming ideas or writing code—they still require extensive manual supervision or are heavily constrained to specific tasks.
