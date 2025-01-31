@@ -7,8 +7,7 @@
 
 <p align="center">
   📚 <a href="https://arxiv.org/abs/2408.06292">[Paper]</a> |
-  📝 <a href="https://sakana.ai/ai-scientist/">[Blog Post]</a> |
-  📂 <a href="https://drive.google.com/drive/folders/1G7A0wTqfXVa-cpexjk0oaXakaSJwffEt">[Drive Folder]</a> |
+  🌐 <a href="https://ai-scientist.info/">[Website]</a> |
   ✖  <a href="https://x.com/AnnPeardre">[X]</a>
 </p>
 
