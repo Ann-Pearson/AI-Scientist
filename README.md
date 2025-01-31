@@ -1,4 +1,5 @@
-
+<h1 align="center">
+  <a href="">
   <b>The AI Scientist: Towards Fully Automated</b><br>
   <b>Open-Ended Scientific Discovery 🧑‍🔬</b><br>
 </h1>
